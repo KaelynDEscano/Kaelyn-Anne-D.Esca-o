@@ -31,3 +31,4 @@ for x in steps:
     print(name, "- Total:", total, " Average:", avg, " Max:", person_max, " Min:", person_min)
 
 #I used chat gpt to help me with the slicing of array part since I am not yet familiar with it. Found at line 13 with x[1:]
+
